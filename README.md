@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<script type="text/javascript"\>
+
+    window.onload = function() {
+       var number = 12;
+       document.getElementById("target").innerHTML=number;
+    }
+
+</script>
+    
+<h1 id="target">"number"</h1>

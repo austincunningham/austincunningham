@@ -1,12 +1,10 @@
-<!-- <style type="text/css">
+<style type="text/css">
 
   body {
     background-color: black;
   }
   
-</style> -->
-
-<body bgcolor="black" text="white">
+</style>
 
 # Hi there 👋
 

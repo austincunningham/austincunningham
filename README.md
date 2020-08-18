@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **austincunningham/austincunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Personal Blogs
+[![](./img/blog.png)](https://austincunningham.ddns.net)
+[![](https://cdn.changelog.com/uploads/icons/news_sources/V1/icon_small.png?v=63685250198)](https://dev.to/austincunningham)
+[![](./img/medium.png)](https://medium/austincunningham)
 
+## Stats
 [![Austin's github stats](https://github-readme-stats.vercel.app/api?username=austincunningham&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austincunningham&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

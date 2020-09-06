@@ -6,9 +6,8 @@
   
 </style> -->
 <body>
+![](hellothere.png)
 
-<centre>![](hellothere.png)
-</centre>
 <!--
 **austincunningham/austincunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

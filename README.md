@@ -1,13 +1,4 @@
-<!--<style type="text/css">
 
-  body {
-    background-color: black;
-  }
-  
-</style> -->
-<body>
-  
-![](https://github.com/austincunningham/austincunningham/blob/master/hellothere.png?raw=true)
 
 <!--
 **austincunningham/austincunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +23,4 @@ Here are some ideas to get you started:
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austincunningham&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-</body>
+
